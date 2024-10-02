@@ -5,7 +5,8 @@ Agentic workflows involve autonomous agents that utilize various LLMs to perform
 Standardizing these workflows enhances interoperability and efficiency but presents several challenges due to differences in LLM capabilities, APIs, data formats, and interaction protocols.
 
 **Specification**
-Please refer to specification.md for details
+
+Please refer to draft specification (specification.md) for details.
 
 
 
